@@ -1,0 +1,27 @@
+{ 
+    "_id" : ObjectId("5c1aff87761b3f10d7d0c2f1"), 
+    "first_name" : "jonathan", 
+    "last_name" : "castro", 
+    "email" : "admin@hotmail.com", 
+    "password" : "81dc9bdb52d04dc20036dbd8313ed055", 
+    "role" : "admin", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5c1affa1761b3f10d7d0c2f2"), 
+    "first_name" : "maria", 
+    "last_name" : "canseco", 
+    "email" : "maria@hotmail.com", 
+    "password" : "81dc9bdb52d04dc20036dbd8313ed055", 
+    "role" : "user", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5c1b038f761b3f10d7d0c2f3"), 
+    "first_name" : "martin", 
+    "last_name" : "rauli", 
+    "email" : "martin@hotmail.com", 
+    "password" : "81dc9bdb52d04dc20036dbd8313ed055", 
+    "role" : "user", 
+    "__v" : NumberInt(0)
+}
